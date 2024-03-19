@@ -142,6 +142,7 @@ function App() {
                 ano={carro.ano}
                 potencia={carro.potencia}
                 fabricante={carro.fabricante}
+                preco={carro.preco}
                 id={carro.id}
               />
             );
