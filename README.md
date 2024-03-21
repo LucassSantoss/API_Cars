@@ -1,5 +1,6 @@
-Esse projeto foi feito utilizando Vite, para utilizá-lo, você vai precisar ter o node instalado, e então, basta localizar a pasta do projeto pelo terminal e inserir o seguinte comando:
+Esse projeto foi feito utilizando Vite, para utilizá-lo, você vai precisar ter o node instalado, e então, basta localizar a pasta do projeto pelo terminal e inserir os seguintes comandos:
 
+npm install
 npm run dev
 
 Depois, basta entrar no link fornecido para usar a aplicação.
@@ -9,8 +10,9 @@ Esse site foi desenvolvido para interagir com uma API que recebe e guarda inform
 
 //
 
-This project was made using Vite. To use it, you will need to have Node installed, and then, simply navigate to the project's folder through the terminal and enter the following command:
+This project was made using Vite. To use it, you will need to have Node installed, and then, simply navigate to the project's folder through the terminal and enter the following commands:
 
+npm install
 npm run dev
 
 After that, just access the provided link to use the application.
